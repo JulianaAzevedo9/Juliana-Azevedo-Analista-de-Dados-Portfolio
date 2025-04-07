@@ -31,7 +31,7 @@ Tecnologias: PostgreSQL (SQL) e Power BI
 
 ### Análise de tendências da BellaBeat
 
-[Bella Beat Case Study]()
+[Bella Beat Estudo de Caso](https://github.com/JulianaAzevedo9/BellaBeat-Estudo-De-Caso)
 
 Habilidades: Modelagem de dados, Transformação de dados, Exploração e preparação, SQL, Análise de dados e insights de negócios, Visualização e storytelling, Visão estratégica de negócios.
 

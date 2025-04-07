@@ -13,11 +13,11 @@ Para mais detalhes sobre minha qualificação, meu currículo está disponível 
 Também mantenho um portfólio com projetos relevantes que demonstram minhas habilidades e evolução contínua no campo da Análise de Dados.
 
 ## Table of Contents
-- [Sobre mim]()
-- [Portfolio]()
-- [Educação]()
-- [Certificados]()
-- [Contatos]()
+- [Sobre mim](https://github.com/JulianaAzevedo9/Juliana-Azevedo-Analista-de-Dados-Portfolio/blob/main/README.md#sobre-mim)
+- [Portfolio](https://github.com/JulianaAzevedo9/Juliana-Azevedo-Analista-de-Dados-Portfolio/blob/main/README.md#portfolio)
+- [Formação Acadêmica](https://github.com/JulianaAzevedo9/Juliana-Azevedo-Analista-de-Dados-Portfolio/blob/main/README.md#forma%C3%A7%C3%A3o-acad%C3%AAmica)
+- [Certificados](https://github.com/JulianaAzevedo9/Juliana-Azevedo-Analista-de-Dados-Portfolio/blob/main/README.md#certifica%C3%A7%C3%B5es)
+- [Contatos](https://github.com/JulianaAzevedo9/Juliana-Azevedo-Analista-de-Dados-Portfolio/blob/main/README.md#contacts)
 ## Portfolio 
 Nesta seção, apresento meus projetos de análise de dados, destacando as tecnologias utilizadas para resolver cada caso.
 

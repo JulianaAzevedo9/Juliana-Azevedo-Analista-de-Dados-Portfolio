@@ -23,7 +23,7 @@ Nesta seção, apresento meus projetos de análise de dados, destacando as tecno
 
 ### Análise de tendências de viagens de bicicleta para direcionar campanhas de marketing
 
-[The Cyclistic Bike Share Case Study]()
+[Projeto Cyclistic Bike Share Caso De Estudo](https://github.com/JulianaAzevedo9/Estudo-de-Caso-Cyclistic-Analise-de-Dados-para-Conversao-de-Usuarios/tree/main)
 
 Habilidades: Limpeza e preparação de dados, SQL, Análise de dados e insights de negócios, Visualização e storytelling, Visão estratégica de negócios.
 

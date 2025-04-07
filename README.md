@@ -1,1 +1,102 @@
 # Juliana-Azevedo-Analista-de-Dados-Portfolio
+
+## Sobre mim
+
+Sou Juliana Azevedo, profissional em transição de carreira para a área de Análise de Dados. Com formação em Engenharia e certificações em andamento em Data Analytics, possuo sólida base técnica e experiência em ciências da vida, o que me proporciona uma visão analítica e multidisciplinar.
+
+Minha trajetória acadêmica e profissional me permitiu desenvolver competências em manipulação de dados complexos, identificação de padrões e análise estatística, além de experiência prática em gestão de informações e metodologias laboratoriais. Acredito que essa combinação de habilidades seja um diferencial para atuar com excelência na área de dados.
+
+Como entusiasta da tecnologia, dedico parte do meu tempo ao estudo de novas ferramentas e técnicas de análise, sempre buscando ampliar meu conhecimento. Tenho grande satisfação em transformar dados em insights estratégicos, seja em projetos colaborativos ou individuais, com foco na resolução de problemas complexos por meio de abordagens data-driven.
+
+Para mais detalhes sobre minha qualificação, meu currículo está disponível em PDF.
+
+Também mantenho um portfólio com projetos relevantes que demonstram minhas habilidades e evolução contínua no campo da Análise de Dados.
+
+## Table of Contents
+- [Sobre mim]()
+- [Portfolio]()
+- [Educação]()
+- [Certificados]()
+- [Contatos]()
+## Portfolio 
+Nesta seção, apresento meus projetos de análise de dados, destacando as tecnologias utilizadas para resolver cada caso.
+
+### Análise de tendências de viagens de bicicleta para direcionar campanhas de marketing
+
+[The Cyclistic Bike Share Case Study]()
+
+Habilidades: Limpeza e preparação de dados, SQL, Análise de dados e insights de negócios, Visualização e storytelling, Visão estratégica de negócios.
+
+Tecnologias: PostgreSQL (SQL) e Power BI
+
+### Análise de tendências da BellaBeat
+
+[Bella Beat Case Study]()
+
+Habilidades: Modelagem de dados, Transformação de dados, Exploração e preparação, SQL, Análise de dados e insights de negócios, Visualização e storytelling, Visão estratégica de negócios.
+
+Tecnologias: PostgreSQL (SQL) e Power BI
+
+### Análise de tecnologias emergentes e tendências
+
+[Analysis on emerging Technologies and trends]()
+
+Habilidades: Limpeza e preparação de dados, Python, Análise de dados e insights de negócios, Visualização e storytelling, Criação de dashboards, Visão estratégica de negócios.
+
+Tecnologias: JupyterLite (Python) e Looker Studio
+
+## Formação Acadêmica
+
+Ulster University, Londres
+- MBA em Administração
+2022
+
+BPP University, Londres
+- Mestrado em Ciências (MS) em Gestão e Gerenciamento de Projetos
+2020
+
+Universidade Federal do Rio Grande do Norte (UFRN) 
+- Bacharelado em Engenharia Têxtil
+2016
+
+## Certificações
+
+A melhor forma de demonstrar habilidades é através da prática e compartilhamento do trabalho realizado, mas certificações surgem como um valioso complemento que atesta o conhecimento adquirido. Seguem minhas principais certificações (em ordem cronológica reversa, com data de conclusão):
+
+- [Google Data Analytics Professional Certificate](https://www.credly.com/badges/9ac93e36-90b3-414b-9365-9667ae7b0ddd/linked_in_profile)(Coursera - Google)(Setembro 2024)
+- [IBM Data Analysis](https://www.credly.com/badges/6aaec0ee-dbd6-4f49-a3cd-a85cd7111a20/linked_in_profile)(Coursera - IBM)(Março 2025)
+- [Microsoft Power BI Data Analyst Professional Certificate](https://www.credly.com/badges/56619b7b-4a2d-40a2-8c74-dba5b7e637d5/linked_in_profile)(Coursera - Microsoft)(Março 2025)
+
+## Contacts
+- LinkedIn: [@julianaAzevedo](https://www.linkedin.com/in/juliana-azevedo-96a12114b/)
+- Email: juluap@outlook.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -39,7 +39,7 @@ Tecnologias: PostgreSQL (SQL) e Power BI
 
 ### Análise de tecnologias emergentes e tendências
 
-[Analysis on emerging Technologies and trends]()
+[Análise de tecnologias emergentes e tendências](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes)
 
 Habilidades: Limpeza e preparação de dados, Python, Análise de dados e insights de negócios, Visualização e storytelling, Criação de dashboards, Visão estratégica de negócios.
 

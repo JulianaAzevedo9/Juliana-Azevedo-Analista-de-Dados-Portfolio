@@ -2,11 +2,11 @@
 
 ## Sobre mim
 
-Sou Juliana Azevedo, profissional em transição de carreira para a área de Análise de Dados. Com formação em Engenharia e certificações em andamento em Data Analytics, possuo sólida base técnica e experiência em ciências da vida, o que me proporciona uma visão analítica e multidisciplinar.
+Sou Juliana Azevedo, profissional em transição de carreira para a área de Análise de Dados. Com formação em Engenharia e certificações em andamento em análise de dados, possuo sólida base técnica e experiência em ciências da vida, o que me proporciona uma visão analítica e multidisciplinar.
 
-Minha trajetória acadêmica e profissional me permitiu desenvolver competências em manipulação de dados complexos, identificação de padrões e análise estatística, além de experiência prática em gestão de informações e metodologias laboratoriais. Acredito que essa combinação de habilidades seja um diferencial para atuar com excelência na área de dados.
+Minha trajetória acadêmica e profissional me permitiram desenvolver competências em manipulação de dados complexos, identificação de padrões e análise estatística, além de experiência prática em gestão de informações e metodologias laboratoriais. Acredito que essa combinação de habilidades seja um diferencial para atuar com excelência na área de dados.
 
-Como entusiasta da tecnologia, dedico parte do meu tempo ao estudo de novas ferramentas e técnicas de análise, sempre buscando ampliar meu conhecimento. Tenho grande satisfação em transformar dados em insights estratégicos, seja em projetos colaborativos ou individuais, com foco na resolução de problemas complexos por meio de abordagens data-driven.
+Como entusiasta da tecnologia, dedico parte do meu tempo ao estudo contínuo de ferramentas e técnicas inovadoras de análise, com o objetivo de expandir meu conhecimento técnico e aplicá-lo de forma estratégica. Tenho grande satisfação em transformar dados complexos em insights acionáveis, seja em projetos colaborativos ou iniciativas individuais, sempre com uma abordagem orientada a dados (data-driven) para resolver desafios multifatoriais e gerar valor tangível.
 
 Para mais detalhes sobre minha qualificação, meu currículo está disponível em PDF.
 

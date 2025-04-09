@@ -23,7 +23,7 @@ Nesta seção, apresento meus projetos de análise de dados, destacando as tecno
 
 ### Análise de tendências de viagens de bicicleta para direcionar campanhas de marketing
 
-[Projeto Cyclistic Bike Share Caso De Estudo](https://github.com/JulianaAzevedo9/Estudo-de-Caso-Cyclistic-Analise-de-Dados-para-Conversao-de-Usuarios/tree/main)
+[Projeto Cyclistic Bike Share Estudo De Caso](https://github.com/JulianaAzevedo9/Estudo-de-Caso-Cyclistic-Analise-de-Dados-para-Conversao-de-Usuarios/tree/main)
 
 Habilidades: Limpeza e preparação de dados, SQL, Análise de dados e insights de negócios, Visualização e storytelling, Visão estratégica de negócios.
 
@@ -39,7 +39,7 @@ Tecnologias: PostgreSQL (SQL) e Power BI
 
 ### Análise de tecnologias emergentes e tendências
 
-[Análise de tecnologias emergentes e tendências](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes)
+[Análise de Tecnologias Emergentes e Tendências](https://github.com/JulianaAzevedo9/Analise-das-tecnologias-e-tendencias-emergentes)
 
 Habilidades: Limpeza e preparação de dados, Python, Análise de dados e insights de negócios, Visualização e storytelling, Criação de dashboards, Visão estratégica de negócios.
 

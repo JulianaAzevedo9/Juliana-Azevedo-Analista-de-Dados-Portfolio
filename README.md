@@ -8,7 +8,7 @@ Minha trajetória acadêmica e profissional me permitiram desenvolver competênc
 
 Como entusiasta da tecnologia, dedico parte do meu tempo ao estudo contínuo de ferramentas e técnicas inovadoras de análise, com o objetivo de expandir meu conhecimento técnico e aplicá-lo de forma estratégica. Tenho grande satisfação em transformar dados complexos em insights acionáveis, seja em projetos colaborativos ou iniciativas individuais, sempre com uma abordagem orientada a dados (data-driven) para resolver desafios multifatoriais e gerar valor tangível.
 
-Para mais detalhes sobre minha qualificação, meu currículo está disponível em DOCX [Curriculo](https://github.com/JulianaAzevedo9/Juliana-Azevedo-Analista-de-Dados-Portfolio/blob/main/Juliana%20Azevedo-Curriculo%20optimizado.docx).
+Para mais detalhes sobre minha qualificação, meu currículo está disponível [currículo](https://github.com/JulianaAzevedo9/Juliana-Azevedo-Analista-de-Dados-Portfolio/blob/main/Juliana%20Azevedo-Curriculo%20optimizado(1).pdf) em PDF.
 
 Também mantenho um portfólio com projetos relevantes que demonstram minhas habilidades e evolução contínua no campo da Análise de Dados.
 

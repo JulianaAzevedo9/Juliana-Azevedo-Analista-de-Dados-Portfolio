@@ -45,6 +45,14 @@ Habilidades: Limpeza e preparação de dados, Python, Análise de dados e insigh
 
 Tecnologias: JupyterLite (Python) e Looker Studio
 
+### Classificações de consumo de combustível e estimativas de emissões de dióxido de carbono
+
+[Previsão de emissões de dióxido de carbono]()
+
+Habilidades: Exploração dos dados, Visualização e storytelling, previsão de dados usando regressão linear.
+
+Tecnologias: JupyterLite (Python)
+
 ## Formação Acadêmica
 
 Ulster University, Londres

@@ -49,7 +49,7 @@ Tecnologias: JupyterLite (Python) e Looker Studio
 
 [Previsão de emissões de dióxido de carbono](https://github.com/JulianaAzevedo9/Classificacoes-de-consumo-de-combustivel-e-estimativas-de-emiss-es-de-di-xido-de-carbono/blob/main/RegressaolinearparapreveroconsumodeCO2(1).ipynb)
 
-Habilidades: Exploração dos dados, Visualização e storytelling, previsão de dados usando regressão linear.
+Habilidades: Exploração dos dados, Visualização e storytelling, previsão de dados usando regressão linear usando scikit-learn.
 
 Tecnologias: JupyterLite (Python)
 
